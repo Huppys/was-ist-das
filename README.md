@@ -3,6 +3,7 @@
 Ein kleines Spiel - zur Demonstration einer beispielhaften Entwicklungs- und Deployment-Umgebung.
 
 Das Projekt wird sich im Bereich der Anwendungsentwicklung für mobile und Web-Applikationen bewegen.
+___
 
 ## Zielstellung
 
@@ -12,14 +13,15 @@ Dieses Projekt soll meine wichtigsten Skills so anwenden, dass sie für andere P
 * Welche Techniken beherrschen Sie?
 * Haben Sie bereits mit [Technologie XYZ] gearbeitet?
 
-Aufgrund des fehlenden Informatikstudiums kann eine reine Vergleichbarkeit auf dem Papier schwer fallen. Was beinhaltet ein Studium zu interaktiven Medien an der Filmakademie Baden-Württemberg überhaupt? Gerade heraus: Zumeist Themen und Arbeitsfelder, die (noch) nicht Teil der Prozesse und Geschäftsfelder größerer Unternehmen sind.
+Aufgrund des fehlenden Informatikstudiums kann eine Vergleichbarkeit rein auf dem Papier schwer fallen. Was beinhaltet ein [Studium der interaktiven Medien an der Filmakademie Baden-Württemberg](http://interaktive-medien.animationsinstitut.de/) überhaupt? Gerade heraus: Zumeist Themen und Arbeitsfelder, die nicht Teil der Prozesse und Geschäftsfelder größerer Unternehmen sind.
 
 Insofern spielt die Berufserfahrung eine entscheidende Rolle bei einer Bewerbung.
 
-Doch wie kann ich meine Kenntnisse über Technologien, Programmiersprachen und Softwareentwicklung darstellen, wenn ich keine Arbeitsproben aus meiner täglichen Arbeit entnehmen darf?
+Doch wie kann ich meine Kenntnisse über Technologien, Programmiersprachen und Softwareentwicklung darstellen, wenn ich keine Arbeitsproben aus meiner täglichen Arbeit entnehmen darf und die reine Behauptung über das Können nicht aussagekräftig genug ist?
 
-    Durch eine eigene Arbeitsprobe.
+    Durch eine eigene Arbeitsprobe, denke ich.
 
+___
 
 ## Umfang der Arbeitsprobe 'Was ist das?'
 
@@ -48,4 +50,4 @@ Ich werde jeden Arbeitsschritt dokumentieren, sodass er nachvollziehbar wird. Ei
 
 Mir ist bewusst, dass sich das Projekt über einen größeren Zeitraum hinziehen wird und ich nur in meiner Freizeit und nach Feierabend daran arbeiten kann.
 
-Alle weiteren Dokumentationsschritte werden in das Projektwiki aufgenommen.
+Alle weiteren Dokumentationsschritte werden in das [Projektwiki](./was-ist-das/wiki) aufgenommen.
