@@ -7,11 +7,12 @@ ___
 
 ## Zielstellung
 
-Dieses Projekt soll meine wichtigsten Skills so anwenden, dass sie für andere Personen nachvollziehbar werden. In Bewerbungsgesprächen treten folgende Fragen immer wieder auf:
+Ich möchte innerhalb dieses Projekt meine wichtigsten Skills so anwenden, dass sie für andere Personen nachvollziehbar werden. In Bewerbungsgesprächen treten folgende Fragen immer wieder auf:
 
 * Wie ist Ihre Herangehensweise an ein Softwareprojekt?
 * Welche Techniken beherrschen Sie?
 * Haben Sie bereits mit [Technologie XYZ] gearbeitet?
+* Können Sie strukturiert arbeiten?
 
 Aufgrund des fehlenden Informatikstudiums kann eine Vergleichbarkeit rein auf dem Papier schwer fallen. Was beinhaltet ein [Studium der interaktiven Medien an der Filmakademie Baden-Württemberg](http://interaktive-medien.animationsinstitut.de/) überhaupt? Gerade heraus: Zumeist Themen und Arbeitsfelder, die nicht Teil der Prozesse und Geschäftsfelder größerer Unternehmen sind.
 
