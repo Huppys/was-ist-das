@@ -2,6 +2,8 @@
 
 Ein kleines Spiel - zur Demonstration einer beispielhaften Entwicklungs- und Deployment-Umgebung.
 
+Das Projekt wird sich im Bereich der Anwendungsentwicklung für mobile und Web-Applikationen bewegen.
+
 ## Zielstellung
 
 Dieses Projekt soll meine wichtigsten Skills so anwenden, dass sie für andere Personen nachvollziehbar werden. In Bewerbungsgesprächen treten folgende Fragen immer wieder auf:
