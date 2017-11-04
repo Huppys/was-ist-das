@@ -50,4 +50,4 @@ Ich werde jeden Arbeitsschritt dokumentieren, sodass er nachvollziehbar wird. Ei
 
 Mir ist bewusst, dass sich das Projekt über einen größeren Zeitraum hinziehen wird und ich nur in meiner Freizeit und nach Feierabend daran arbeiten kann.
 
-Alle weiteren Dokumentationsschritte werden in das [Projektwiki](/wiki) aufgenommen.
+Alle weiteren Dokumentationsschritte werden in das [Projektwiki](../../wiki) aufgenommen.
